@@ -7,3 +7,4 @@
 - Jahnvi Thakkar
 - Anushka Bhagchandani
 - Sailee Salgaonkar
+![image](https://github.com/user-attachments/assets/7262330b-f542-424f-8b03-049d644012d9)
