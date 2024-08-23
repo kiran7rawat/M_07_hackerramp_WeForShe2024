@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <script src="https://kit.fontawesome.com/2df014e953.js" crossorigin="anonymous"></script>
     <!-- Bootstrap CSS -->
-    <link rel="icon" href="png/Myntra.png">
+	<link rel="icon" href="Logo.png">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
@@ -100,7 +100,7 @@
 </style>
 <body>
 	<nav class="shadow-sm w-100 navbar navbar-expand-lg navbar-light">
-		<a class="navbar-brand logo-size" href="home.php"><img src="png/Myntra.png" style="width: 70px;
+		<a class="navbar-brand logo-size" href="home.php"><img src="Logo.png" style="width: 70px;
 	        left: 15px; position: relative"/></a>
 	  
 	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
@@ -112,10 +112,10 @@
 	<span class="collapse navbar-collapse">
 		<span class="container clearfix">
 		<ul class="navbar-nav mr-auto mb-2 mb-lg-0 float-right">
-	    	<li class="nav-item"><a class="nav-link" href="women's collection.php">Women's Collection</a></li>
-      <li class="nav-item"><a class="nav-link" href="men's collection.php">Men's Collection</a></li>
-      <li class="nav-item"><a class="nav-link" href="accessories.php">Accessories</a></li>
-      <li class="nav-item"><a class="nav-link" href="customize.php">Customize</a></li>
+	    	<li class="nav-item"><a class="nav-link" href="women's collection.php">Women's</a></li>
+      <li class="nav-item"><a class="nav-link" href="men's collection.php">Men's</a></li>
+      <li class="nav-item"><a class="nav-link" href="accessories.php">Game</a></li>
+      <li class="nav-item"><a class="nav-link" href="customize.php">Virtual</a></li>
 	    </ul>
 	   
 	</span>

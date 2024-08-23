@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Myntra</title>
+	<title>Walmart</title>
 	<meta charset="utf-8">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     
@@ -17,7 +17,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>	<link rel="stylesheet" type="text/css" href="style.css">
   <script src="https://kit.fontawesome.com/2df014e953.js" crossorigin="anonymous"></script>
-  <link rel="icon" href="png/Myntra.png">
+  <link rel="icon" href="Logo.png">
   <script src="index_w.js"></script>
 
     
@@ -40,10 +40,10 @@
 <span class="collapse navbar-collapse">
 	<span class="container clearfix">
 	<ul class="navbar-nav mr-auto mb-2 mb-lg-0 float-right">
-    	<li class="nav-item"><a class="nav-link" href="women's collection.php">Women's Collection</a></li>
-      <li class="nav-item"><a class="nav-link" href="men's collection.php">Men's Collection</a></li>
-      <li class="nav-item"><a class="nav-link" href="accessories.php">Accessories</a></li>
-      <li class="nav-item"><a class="nav-link" href="customize.php">Customize</a></li>
+    	<li class="nav-item"><a class="nav-link" href="women's collection.php">Women's</a></li>
+      <li class="nav-item"><a class="nav-link" href="men's collection.php">Men's</a></li>
+      <li class="nav-item"><a class="nav-link" href="accessories.php">Game</a></li>
+      <li class="nav-item"><a class="nav-link" href="customize.php">Virtual</a></li>
     </ul>
    
 </span>

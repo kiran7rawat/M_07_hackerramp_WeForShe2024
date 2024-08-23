@@ -16,7 +16,7 @@ include 'databaseconnect.php';
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="icon" href="png/Myntra.png">
+    <link rel="icon" href="Logo.png">
 </head>
 <body>
     <nav class="mb-2 w-100 shadow-sm navbar navbar-expand-lg navbar-light">
@@ -45,9 +45,9 @@ include 'databaseconnect.php';
   <span class="container clearfix">
   <ul class="navbar-nav mr-auto mb-2 mb-lg-0 float-right">
       <li class="nav-item"><a class="nav-link" href="clothing.php">Clothing</a></li>
-      <li class="nav-item"><a class="nav-link" href="accessories.php">Accessories</a></li>
+      <li class="nav-item"><a class="nav-link" href="accessories.php">Game</a></li>
       <li class="nav-item"><a class="nav-link" href="">Shoes</a></li>
-      <li class="nav-item"><a class="nav-link" href="customize.php">Customize</a></li>
+      <li class="nav-item"><a class="nav-link" href="customize.php">Virtual</a></li>
     </ul>
    
 </span>
